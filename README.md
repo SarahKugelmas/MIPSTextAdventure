@@ -1,6 +1,5 @@
 # MIPSTextAdventure
-Text Adventure game created using MIPS Assembly Language in the environment QtSpim<br />
-Ran using QtSpim, interaction with game is through QtSpim's console
+Text Adventure game created using MIPS Assembly Language in the environment QtSpim, with the game taking place in its console.
 
 # Code Overview
 ## Scenes
