@@ -22,7 +22,7 @@ Text Adventure game created using MIPS Assembly Language in the environment QtSp
 
 # How to Play
 <img width="398" alt="image" src="https://github.com/SarahKugelmas/MIPSTextAdventure/assets/79024622/915add94-b7c4-4734-b7c9-c1051b3e4350"><br />
-^ When given "Choose =>" at the bottom of the current dialogue, input the numbers of the the option you want to go with and hit enter. You cannot backspace in QtSpim console, so make sure you don't type a number before being fully decided.<br />
+^ When given "Choose =>" at the bottom of the current dialogue, input the number of the the option you want to go with and hit enter. You cannot backspace in QtSpim console, so make sure you don't type a number before being fully decided.<br />
 
 <img width="395" alt="image" src="https://github.com/SarahKugelmas/MIPSTextAdventure/assets/79024622/93e142a2-40e2-48d9-9cd6-28ccb760c3c0"><br />
 ^ If you give more than one input number or try to backspace, it will take the first thing you typed as the selected option. In this above example, it took option 2 as the user inputted answer.
