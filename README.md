@@ -1,6 +1,11 @@
 # MIPSTextAdventure
 Text Adventure game created using MIPS Assembly Language in the environment QtSpim, with the game taking place in its console.
 
+## README Sections
+1. How to Run using QtSpim<br />
+2. How to Play<br />
+3. Code Overview<br />
+
 # How to Run using QtSpim
 <img width="292" alt="image" src="https://github.com/SarahKugelmas/MIPSTextAdventure/assets/79024622/9b0d9390-1f47-4d12-ba0e-4a222688e106"><br />
 ^ Load .asm code file<br />
