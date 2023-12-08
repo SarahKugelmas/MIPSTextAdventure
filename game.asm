@@ -1,4 +1,5 @@
 # Spartie Saves Senior Week, a text-based adventure game in MIPS
+# Authors: Sarah Kugelmas and Hannah Nicholson
 
  .text
 	.globl  main
