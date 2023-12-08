@@ -1,6 +1,30 @@
 # MIPSTextAdventure
 Text Adventure game created using MIPS Assembly Language in the environment QtSpim, with the game taking place in its console.
 
+# How to Run using QtSpim
+<img width="292" alt="image" src="https://github.com/SarahKugelmas/MIPSTextAdventure/assets/79024622/9b0d9390-1f47-4d12-ba0e-4a222688e106"><br />
+^ Load .asm code file<br />
+
+<img width="323" alt="image" src="https://github.com/SarahKugelmas/MIPSTextAdventure/assets/79024622/6507c143-f465-4b8b-ae90-52b23f8749c4"><br />
+^ Make sure the Console window is enabled<br />
+
+<img width="293" alt="image" src="https://github.com/SarahKugelmas/MIPSTextAdventure/assets/79024622/08360875-82db-4d6f-a862-e9c9922642b4">
+<br />
+^ Run/Continue should cause the game to begin in the console<br />
+
+<img width="404" alt="image" src="https://github.com/SarahKugelmas/MIPSTextAdventure/assets/79024622/d00d166f-ceb4-4204-9b3e-b7f9c8120fc5"><br />
+^ The game is properly loaded and running if the console appears like this, with the opening dialogue displayed.<br />
+
+# How to Play
+<img width="398" alt="image" src="https://github.com/SarahKugelmas/MIPSTextAdventure/assets/79024622/915add94-b7c4-4734-b7c9-c1051b3e4350"><br />
+^ When given "Choose =>" at the bottom of the current dialogue, input the numbers of the the option you want to go with and hit enter. You cannot backspace in QtSpim console, so make sure you don't type a number before being fully decided.<br />
+
+<img width="395" alt="image" src="https://github.com/SarahKugelmas/MIPSTextAdventure/assets/79024622/93e142a2-40e2-48d9-9cd6-28ccb760c3c0"><br />
+^ If you give more than one input number or try to backspace, it will take the first thing you typed as the selected option. In this above example, it took option 2 as the user inputted answer.
+
+<img width="383" alt="image" src="https://github.com/SarahKugelmas/MIPSTextAdventure/assets/79024622/4b8fd998-de5a-480b-b086-898da86059d1"><br />
+^ If dialogue is displayed without showing "Choose =>" at the bottom, it means there is more dialogue to read in this section. Just hit enter until the dialogue is finished (aka until you get the "Choose =>" option showing up at the bottom.
+
 # Code Overview
 ## Scenes
 <img width="242" alt="image" src="https://github.com/SarahKugelmas/MIPSTextAdventure/assets/79024622/8d502b54-3acd-4dec-aec5-7deeab99ae2a"><br />
