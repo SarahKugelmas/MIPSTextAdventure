@@ -1,6 +1,4 @@
 # Spartie Saves Senior Week, a text-based adventure game in MIPS
-# Developed for CSDS 314 Computer Architecture at CWRU
-# Optional Project for Spring 2023
 
  .text
 	.globl  main
